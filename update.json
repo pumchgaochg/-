@@ -1,6 +1,6 @@
 {
   "version": "3.21",
   "file_name": "龙之谷怀旧服配装模拟器V3.21.exe",
-  "download_url": "https://github.com/pumchgaochg/-/releases/download/v3.20/DragonNestBuildSimulator.exe",
+  "download_url": "https://github.com/pumchgaochg/-/releases/download/v3.21/DragonNestBuildSimulator.exe",
   "notes": "1. 新增其他页一键选择buff功能，可自动选择力量掌握和当前二转职业自身buff。\n2. 新增多项职业技能buff数据，包括勇敢、寒冰障碍、致命一击掌握、机械模式、元素和声等。\n3. 新增荆棘、魔法暴雪、偷袭点、弗里兹科之舞、幻影之舞等最终伤害类buff。\n4. 配队模拟新增一键配队功能!!!"
 }
