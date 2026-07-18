@@ -1,6 +1,6 @@
 {
-  "version": "3.22",
-  "file_name": "龙之谷怀旧服配装模拟器V3.22.exe",
-  "download_url": "https://github.com/pumchgaochg/-/releases/download/v3.22/DragonNestBuildSimulator.exe",
-  "notes": "1. 配队模拟新增减致命抗和减防御的debuff。\n2. 增加选择boss对应的属性功能。\n3. 增加防御率计算。\n4. 优化了部分界面"
+  "version": "3.23",
+  "file_name": "龙之谷怀旧服配装模拟器V3.23.exe",
+  "download_url": "https://github.com/pumchgaochg/-/releases/download/v3.23/DragonNestBuildSimulator.exe",
+  "notes": "1、优化了配装装备选择、后缀选择、纹章选择的逻辑\n2、新增配队模拟进度展示、优化配队模拟逻辑\n3、技能模拟的技能倍率更新"
 }
