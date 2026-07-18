@@ -1,6 +1,6 @@
 {
-  "version": "3.23",
-  "file_name": "龙之谷怀旧服配装模拟器V3.23.exe",
-  "download_url": "https://github.com/pumchgaochg/-/releases/download/v3.23/DragonNestBuildSimulator.exe",
-  "notes": "1、优化了配装装备选择、后缀选择、纹章选择的逻辑\n2、新增配队模拟进度展示、优化配队模拟逻辑\n3、技能模拟的技能倍率更新"
+  "version": "3.24",
+  "file_name": "龙之谷怀旧服配装模拟器V3.24.exe",
+  "download_url": "https://github.com/pumchgaochg/-/releases/download/v3.24/DragonNestBuildSimulator.exe",
+  "notes": "1、新增一键极限配队功能，配队模拟增加进度条\n2、修正了十字和圣骑技能模拟错误问题\n3、增加了火舞灼烧之手的效果\n4、技能效果应用的技能cd减少，如时间掌控者，惩罚攻击等可以等效计算技能cd\n5、修正了大量的技能模拟的错误，倍率及算法大幅度调整，更智能，更准确。"
 }
