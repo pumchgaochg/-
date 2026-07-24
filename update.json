@@ -1,6 +1,6 @@
 {
-  "version": "3.30",
-  "file_name": "龙之谷怀旧服配装模拟器V3.30.exe",
-  "download_url": "https://github.com/pumchgaochg/-/releases/download/v3.30/DragonNestBuildSimulator.exe",
-  "notes": "大更新，请务必下载！\n1、技能模拟增加了实战技能轴功能（技能模拟-爆发及加速模拟）！！！\n2、增加了加点模拟功能，加点模拟结果会用于技能模拟中，加点页可缩放。\n3、增加了全职业技能施法时间数据、增加了dpa计算。\n4、基于时间轴结果，优化了队伍极限配队。\n5、修改了部分界面，更加美观"
+  "version": "3.31",
+  "file_name": "龙之谷怀旧服配装模拟器V3.31.exe",
+  "download_url": "https://github.com/pumchgaochg/-/releases/download/v3.31/DragonNestBuildSimulator.exe",
+  "notes": "v3.31: 1、修复了加点模拟器cd、显示数值问题。\n2、修复了一键极限配队的时间轴错误，增加调整极限配队队员装备功能。\n3、优化了月主的技能轴选择。\nv3.30:大更新，请务必下载！\n1、技能模拟增加了实战技能轴功能（技能模拟-爆发及加速模拟）！！！\n2、增加了加点模拟功能，加点模拟结果会用于技能模拟中，加点页可缩放。\n3、增加了全职业技能施法时间数据、增加了dpa计算。\n4、基于时间轴结果，优化了队伍极限配队。\n5、修改了部分界面，更加美观"
 }
