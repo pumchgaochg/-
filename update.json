@@ -1,6 +1,6 @@
 {
-  "version": "3.60",
-  "file_name": "龙之谷怀旧服配装模拟器V3.60.exe",
-  "download_url": "https://github.com/pumchgaochg/-/releases/download/v3.60/DragonNestBuildSimulator.exe",
-  "notes": "重大更新前的试探性更新！v3.60: 1、增加了实战统计部分；\n2、修复了配装对比偶发无法刷新的bug；\n3、更改了大量技能的释放时间，更准确；\n4、更新了技能轴算法"
+  "version": "4.20",
+  "file_name": "龙之谷怀旧服配装模拟器V4.20.exe",
+  "download_url": "https://github.com/pumchgaochg/-/releases/download/v4.20/DragonNestBuildSimulator.exe",
+  "notes": "新版本大更新！"
 }
