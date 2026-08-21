@@ -1,6 +1,6 @@
 {
-  "version": "4.21",
-  "file_name": "龙之谷怀旧服配装模拟器V4.21.exe",
-  "download_url": "https://github.com/pumchgaochg/-/releases/download/v4.20/DragonNestBuildSimulator421.exe",
-  "notes": "1、修复了奉献乌鸦、九天之舞2阶、惩罚攻击的hp识别bug\n2、修复了配队模拟中装备替换异常的bug，增加了查看和替换装备的按钮\n3、修复了其他已知的奇怪bug\n4、更新加入了新出的迷雾卡片"
+  "version": "4.22",
+  "file_name": "龙之谷怀旧服配装模拟器V4.22.exe",
+  "download_url": "https://github.com/pumchgaochg/-/releases/download/v4.20/DragonNestBuildSimulator422.exe",
+  "notes": "重大修复，建议更新\n1、修复了黑龙经典千夫长之后悬浮窗错误的bug\n2、修复了角色死亡后，全场伤害统计不更新的bug\n3、增加了可以实时查看技能时间轴的功能\n4、修复了黑暗复仇者大招面板倍率缺失问题\n5、修复了死亡次数计算偏少的问题\n6、增加了一键秒掉和一键摇ad功能"
 }
