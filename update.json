@@ -1,6 +1,6 @@
 {
-  "version": "4.22",
-  "file_name": "龙之谷怀旧服配装模拟器V4.22.exe",
-  "download_url": "https://github.com/pumchgaochg/-/releases/download/v4.20/DragonNestBuildSimulator422.exe",
-  "notes": "重大修复，建议更新\n1、修复了黑龙经典千夫长之后悬浮窗错误的bug\n2、修复了角色死亡后，全场伤害统计不更新的bug\n3、增加了可以实时查看技能时间轴的功能\n4、修复了黑暗复仇者大招面板倍率缺失问题\n5、修复了死亡次数计算偏少的问题\n6、增加了一键秒掉和一键摇ad功能"
+  "version": "4.23",
+  "file_name": "龙之谷怀旧服配装模拟器V4.23.exe",
+  "download_url": "https://github.com/pumchgaochg/-/releases/download/v4.20/DragonNestBuildSimulator423.exe",
+  "notes": "重大修复，建议更新\n1、配装模拟中，从游戏中可以直接同步个人数据到模拟器，更改了详细操作步骤（可能会有错误，尤其是刻印和源著石板）\n2、修复了评分系统中加速/爆发区间识别bug\n3、修复了队员查看中模拟面板偏差过大的bug，还有约3000点左右的误差\n4、修复了重新构建配装时面板异常的bug\n5、新增查看队友面板悬浮窗（最大约3000点左右的误差）\n6、修复了药剂牺牲和喷射的bug\n7、技能纹章选择逻辑更新\n8、修复了十字军评分bug"
 }
