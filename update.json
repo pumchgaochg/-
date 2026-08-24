@@ -1,6 +1,6 @@
 {
-  "version": "4.24",
-  "file_name": "龙之谷怀旧服配装模拟器V4.24.exe",
-  "download_url": "https://github.com/pumchgaochg/-/releases/download/v4.20/DragonNestBuildSimulator424.exe",
-  "notes": "v4.24 重大修复，建议更新\n1、修正悬浮窗显示\n2、修复死亡识别\n3、修复某些操作下评分卡顿和结束抓包过慢\n4、修复卡片掌握不可见问题\n5、修复加速器情况下无法从游戏同步装备的问题"
+  "version": "4.25",
+  "file_name": "龙之谷怀旧服配装模拟器V4.25.exe",
+  "download_url": "https://github.com/pumchgaochg/-/releases/download/v4.20/DragonNestBuildSimulator425.exe",
+  "notes": "v4.25 体验修复\n1、修复加速器环境下的buff显示异常\n2、修改了模拟器数据上传位置\n3、修复悬浮窗提示清buff次数过多bug\n4、删除悬浮窗中一些没用的buff"
 }
