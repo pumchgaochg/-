@@ -1,6 +1,6 @@
 {
   "version": "4.25",
   "file_name": "龙之谷怀旧服配装模拟器V4.25.exe",
-  "download_url": "https://dragonnest-d0gy32zvzd63b6c52-1473474041.tcloudbaseapp.com/releases/v4.25/龙之谷配装模拟器_4.25.0_x64-setup.exe",
+  "download_url": "https://dragonnest-d0gy32zvzd63b6c52-1473474041.tcloudbaseapp.com/releases/v4.25/DragonNestBuildSimulator425.exe",
   "notes": "v4.25 体验修复\n1、修复加速器环境下的buff显示异常\n2、修改了模拟器数据上传位置\n3、修复悬浮窗提示清buff次数过多bug\n4、删除悬浮窗中一些没用的buff"
 }
